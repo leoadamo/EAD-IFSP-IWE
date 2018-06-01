@@ -1,0 +1,114 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    background-color: mintcream;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div.foto {
+    width: 100%;
+    height: auto;
+    background-color: lightslategrey;
+}
+
+div.foto img {
+    width: 200px;
+    height: 200px;
+    padding: 8px 8px;
+}
+
+div.dados {
+    padding: 8px 8px;
+    width: 100%;
+    height: auto;
+}
+
+div.formacao {
+    padding: 5px 40px;
+    width: 100%;
+    height: auto;
+}
+
+div.profissional {
+    padding: 5px 40px;
+    width: 100%;
+    height: auto;
+}
+
+div.idiomas {
+    padding: 5px 40px;
+    width: 100%;
+    height: auto;
+} 
+
+div.skills {
+    padding: 5px 40px;
+    width: 100%;
+    height: auto;
+}
+
+div.atividades {
+    padding: 5px 40px;
+    width: 100%;
+    height: auto;
+}
+
+div.info {
+    padding: 5px 40px;
+    width: 100%;
+    height: auto;
+} 
+
+h1 {
+    padding: 0px, 0px;
+    margin-top: 0px;
+    color: crimson;
+}
+
+h2 {
+    padding: 8px 8px; 
+    margin: 0px;
+    color: crimson;
+}
+
+h3 {
+    margin: 0px;
+}
+
+hr {
+    height: 1px;
+    background-color: goldenrod;
+    color: goldenrod;
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu ul {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    background-color: crimson;
+    list-style:none;
+    border-bottom: 5px goldenrod solid;
+    border-top: 5px snow solid;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+    padding: 5px;
+    margin-left: 15px;
+    margin-top: 5px;
+    display: inline-block;
+    color: snow;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#menu ul li a:hover {
+    background-color:goldenrod;
+    color: black;
+}
